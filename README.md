@@ -1,5 +1,7 @@
 <html>
 <body>
+  <h1>Dear developer</h1>
+  <h3>This simple base for discord bot. In some cases <code>discord.py</code> doesnt work so check: <code>Environment setup</code></h3>
   <h1>Environment setup:</h1>
   <ol>
     <h3><li>
