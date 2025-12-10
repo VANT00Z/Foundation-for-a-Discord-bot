@@ -60,4 +60,4 @@ bot.run('YOUR_BOT_TOKEN') #<- change it to your bot token
 #   more on GitHub
 #   link to Git: https://github.com/VANT00Z (or @VANT00Z)
 #   dictionary with commands and explains in read-me.txt
-#   add to my discord server: https://discord.gg/3cTGprws
+#   join to my discord server: https://discord.gg/3cTGprws
