@@ -15,9 +15,7 @@ This simple base for discord bot. In some cases discord.py doesnt work so check:
 | Item   | Command |
 |:------:| :------:|
 | Bot    | bot = commands.Bot(command_prefix='YOUR_PREFIX', intents=intents) |
-
 | Intents | intents = discord.Intents.default() |
-
 | Bot command | @bot.command() |
 
 
