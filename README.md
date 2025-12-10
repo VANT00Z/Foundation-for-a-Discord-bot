@@ -72,6 +72,7 @@ This simple base for discord bot. In some cases discord.py doesnt work so check:
 
 ## user = await bot.fetch_user('USER_ID')
 | Command              |    Action |
+|:------:| :------:|
 | user.id              | take ID |
 | user.name            | Name of user |
 | user.discriminator   | Tag (for example: 1234) |
