@@ -67,7 +67,7 @@ This simple base for discord bot. In some cases discord.py doesnt work so check:
 * intents.auto_moderation_execution     -     Auto-moderation execution
 
 ## You can write: intents = discord.Intents.all() for give all intents to bot
-
+|:------:| :------:|
 |.fetch_user | Command to take info about user |
 
 ## user = await bot.fetch_user('USER_ID')
