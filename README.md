@@ -1,12 +1,29 @@
-# Dear developer
+# Discord-bot creation tutorial
+# Tech
 
-This simple base for discord bot. In some cases discord.py doesnt work so check: Environment setup
+- Python 3.8+
+- Discord API
+- Async dev
 
-# Environment setup:
+# Install and launch
+## Requirements
+
+- pip
+- discord-bot dict
+
+## Install
+
+```bash
+pip install discord.py
+```
+
+or
+
+## Environment setup:
 
 1. Create environment. Press f1 and choose Create Environment. Than press Venv and 'Python...'.
 
-2. Now you have environment, write in terminal: .venv/scripts/pip.exe install discord.py.
+2. Now you have environment, write in terminal: ```.venv/scripts/pip.exe install discord.py```.
 
 3. You installed discord.py, so now you can write code for your Discord-bot.
 
