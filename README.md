@@ -66,22 +66,17 @@ This simple base for discord bot. In some cases discord.py doesnt work so check:
 
 * intents.auto_moderation_execution     -     Auto-moderation execution
 
-## *You can write: intents = discord.Intents.all() for give all intents to bot
-* .fetch_user                           -     Command to take info about user
+## You can write: intents = discord.Intents.all() for give all intents to bot
+
+|.fetch_user | Command to take info about user |
 
 ## user = await bot.fetch_user('USER_ID')
-* user.id                               -     take ID
-
-* user.name                             -     Name of user
-
-* user.discriminator                    -     Tag (for example: 1234)
-
-* user.avatar.url                       -     URL of avatar
-
-* user.bot                              -     Return True if user is bot
-
-* user.created_at                       -     Account creation date
-
-* user.display_name                     -     Display name
-
-* user.mention                          -     Mention (@username)
+| Command              |    Action |
+| user.id              | take ID |
+| user.name            | Name of user |
+| user.discriminator   | Tag (for example: 1234) |
+| user.avatar.url      | URL of avatar |
+| user.bot             | Return True if user is bot |
+| user.created_at      | Account creation date |
+| user.display_name    | Display name |
+| user.mention         | Mention (@username) |
