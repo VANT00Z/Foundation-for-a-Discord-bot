@@ -1,6 +1,5 @@
 # Discord-bot creation tutorial
 
----
 
 # Tech
 
@@ -8,7 +7,6 @@
 - Discord API
 - Async dev
 
----
 
 # Install and launch
 ## Requirements
