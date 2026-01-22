@@ -22,7 +22,7 @@ pip install discord.py
 
 or
 
-## Environment setup:
+## Environment setup (for vs code):
 
 1. Create environment. Press f1 and choose ```Create Environment```. Than press Venv and 'Python...'.
 
