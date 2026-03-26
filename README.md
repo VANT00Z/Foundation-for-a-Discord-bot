@@ -12,7 +12,7 @@
 ## Requirements
 
 - pip
-- discord-bot dict
+- discord-bot api
 
 ## Install
 
